@@ -24,6 +24,8 @@ e. What did you learn from some very specific copy paste? Mention explicitly som
 Recently, I came across a database issue while learning Docker. I was getting an error related to JDBC metadata, and no one mentioned that it was caused by not having the database image. 
 I searched through Stack Overflow and other sites, but I finally found the solution in a YouTube video
 
+Url - GET- http://localhost:8080/api/callme?input=seiyon  to run the application.
+
 Question-3. Write a function to parse any valid json string into a corresponding Object, List, or Map
 object. You can use C,C++, Java, Scala, Kotlin, Python, Node. Note that the integer and
 floating point should be arbitrary precision.
