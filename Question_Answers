@@ -1,4 +1,4 @@
-1. Mandatory : Elaborate what your internship or academic projects were?
+Question-1. Mandatory : Elaborate what your internship or academic projects were?
 a. What did the system do?
 In the Citi Bank project, I worked on the Deal Express application, where users create deals and add multiple products to each deal. 
 These deals progress through sales cycles (SC3 and SC7) for approval, and I focused mainly on the DRA (Deal Risk Approval) process, 
@@ -23,3 +23,9 @@ I also remember that some errors can be different depending on the tools or conf
 e. What did you learn from some very specific copy paste? Mention explicitly some of them.
 Recently, I came across a database issue while learning Docker. I was getting an error related to JDBC metadata, and no one mentioned that it was caused by not having the database image. 
 I searched through Stack Overflow and other sites, but I finally found the solution in a YouTube video
+
+Question-3. Write a function to parse any valid json string into a corresponding Object, List, or Map
+object. You can use C,C++, Java, Scala, Kotlin, Python, Node. Note that the integer and
+floating point should be arbitrary precision.
+Yes, written code in main function itself.
+
