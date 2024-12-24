@@ -1,0 +1,25 @@
+1. Mandatory : Elaborate what your internship or academic projects were?
+a. What did the system do?
+In the Citi Bank project, I worked on the Deal Express application, where users create deals and add multiple products to each deal. 
+These deals progress through sales cycles (SC3 and SC7) for approval, and I focused mainly on the DRA (Deal Risk Approval) process, 
+ensuring that deals stop at SC3 and SC7 for the required approvals.
+I recently migrated REST APIs, responsible for adding, deleting, and updating approvers, from .NET to Java. 
+The project follows a microservices architecture, with services communicating via RestTemplate. One service handles general deal-related tasks, 
+while another is focused on the DRA-specific tasks.
+
+b. What other systems have you seen in the wild like that?
+This was my first Project in banking domain.
+
+c. How do you approach the development problem?
+I will start by understanding the requirements thoroughly. If I encounter any challenges or identify potential impacts on other services,
+I’ll bring them up during the scrum call for discussion. Once I have a clear understanding, I will begin coding after proper planning and research. 
+I'll break down the problem into manageable parts and start implementing the code for each. After thorough testing, I’ll assign the code to QA. If any bugs are raised, 
+I’ll review and reverify the requirements to address them promptly and resolve the issues as soon as possible
+
+d. What were interesting aspects where you copied code from Stack Overflow?
+If I come across any errors or exceptions that I don't know, I'll first check Stack Overflow. I'll read through the answers and comments from different people to see if I can find a solution.
+I also remember that some errors can be different depending on the tools or configuration being used."
+
+e. What did you learn from some very specific copy paste? Mention explicitly some of them.
+Recently, I came across a database issue while learning Docker. I was getting an error related to JDBC metadata, and no one mentioned that it was caused by not having the database image. 
+I searched through Stack Overflow and other sites, but I finally found the solution in a YouTube video
